@@ -11,7 +11,7 @@ https://goldmand.io/
 
 ## Current functionality
 
-- Presses the "Mine" button
+- Presses the "Start mining" and "mine now" buttons
 
 ## Changelog
 
