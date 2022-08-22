@@ -21,7 +21,8 @@ https://goldmand.io/
 
 ### 22/8/2022
 
-- Fix selectors
+- Fix selectors.
+
 _When fixing the script, the smartbot team found an error on the game side - every 10-15 minutes the game page is reload and the script is deleted. You may not encounter such a problem. There is no way we can get fix this._
 
 
