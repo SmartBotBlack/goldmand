@@ -6,7 +6,7 @@
 const SELECTOR_MINE =
   ".game--container  > .mining-box .mining-box--content a.button";
 const SELECTOR_APPROVE =
-  ".game--container  > .mining-box .modal.visible .button.green-button";
+  ".modal-wrapper.visible .modal--with-bg .modal-bottom .button.green-button";
 const DELAY = 10 * 1000;
 
 (async () => {
