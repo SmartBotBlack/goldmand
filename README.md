@@ -19,6 +19,12 @@ https://goldmand.io/
 
 - The bot is running with minimal functionality.
 
+_When fixing the script, the smartbot team found an error on the game side - every 10-15 minutes the game page is reload and the script is deleted. You may not encounter such a problem. There is no way we can get fix this._
+
+### 22/8/2022
+
+- Fix selectors
+
 ## Support
 
 _Any problems? [Submit an issue](https://github.com/SmartBotBlack/goldmand/issues/new) or send message in telegram [@smartbotofficial](https://t.me/smartbotofficial) or email [hello@smartbot.black](hello@smartbot.black)!_
